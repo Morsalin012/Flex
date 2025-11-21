@@ -1,0 +1,9 @@
+MSYS-1.0.19 Build:2016-07-13 17:45
+Exception: STATUS_ACCESS_VIOLATION at eip=01016D96
+eax=00000001 ebx=0065E6C0 ecx=000028D8 edx=00800000 esi=0A048210 edi=00425B47
+ebp=0065E7C8 esp=0065E650 program=C:\MinGW\msys\1.0\bin\flex.exe
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0065E7C8  01016D96  (00000000, 00000000, 76ECDE63, 00000020)
+End of stack trace
